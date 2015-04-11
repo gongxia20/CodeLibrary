@@ -1,0 +1,7 @@
+/Applications/Xcode-beta.app/Contents/Developer/Documentation/DocSets
+
+1.Xcode插件
+~/Library/Application Support/Developer/Shared/Xcode/Plug-ins
+
+2.Xcode代码块
+~/Library/Developer/Xcode/UserData/CodeSnippets
