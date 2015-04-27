@@ -8,4 +8,6 @@
 + (UIImage *)resizeImage:(NSString *)imgName;
 
 - (UIImage *)resizeImage;
+
++ (UIImage *)imageWithColor:(UIColor *)color;
 @end
